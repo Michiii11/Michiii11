@@ -3,7 +3,7 @@
 ```json
 {
     "name": "Michael",
-    "age": 18,
+    "age": 19,
     "studying": "IT/media-design",
     "location": "upper austria"
 }
