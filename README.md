@@ -4,8 +4,8 @@
 {
     "name": "Michael",
     "age": 20,
-    "studying": "IT/media-design",
-    "location": "upper austria"
+    "studying": "Computer Science",
+    "location": "Fairmont State University"
 }
 ```
 ----
